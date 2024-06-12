@@ -20,6 +20,7 @@ html {
   .menu_section {
     background: url("../images/sample_menu_bg.jpg") no-repeat bottom;
     background-attachment: fixed;
+    background-size: 100%;
   }
   .menu_title {
     display: inline-block;
@@ -74,3 +75,6 @@ html {
     background: rgba(127,136,182,1);
     color: white;
   }
+.section_inner.menu_section{
+
+}

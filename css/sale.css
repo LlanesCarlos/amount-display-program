@@ -75,6 +75,6 @@ html {
     background: rgba(127,136,182,1);
     color: white;
   }
-.section_inner.menu_section{
-
-}
+  .number{
+    width: 20vh;
+  }
